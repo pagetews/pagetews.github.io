@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pagetews.github.io/sitemap.html.gz
+Sitemap: https://pagetews.github.io/app/sitemap.html.gz
+Sitemap: https://pagetews.github.io/assets/sitemap.html.gz
+Sitemap: https://pagetews.github.io/css/sitemap.html.gz
+Sitemap: https://pagetews.github.io/includes/sitemap.html.gz
+Sitemap: https://pagetews.github.io/item/sitemap.html.gz
+Sitemap: https://pagetews.github.io/src/sitemap.html.gz
